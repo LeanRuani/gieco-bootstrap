@@ -1,0 +1,41 @@
+body{
+    font-family: Montserrat, sans-serif;
+}
+
+.header_p{
+    background-image: url(https://i.ytimg.com/vi/doqWYMVcPtg/maxresdefault.jpg); 
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height:35rem;
+    opacity: 0.9;
+}
+
+.titulo{
+    top: 40%;
+}
+
+.titulo h1{
+    font-size: 3rem;
+    line-height: 6rem;
+}
+
+.titulo h1 span{
+    -webkit-box-shadow: 0px 6px 24px -5px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 6px 24px -5px rgba(0,0,0,0.75);
+    box-shadow: 0px 6px 24px -5px rgba(0,0,0,0.75);
+    font-weight: 700;
+}
+
+.formulario{
+    background-color:  rgb(207, 207, 218);
+    border-radius: 5px;
+    -webkit-box-shadow: 0px 0px 56px -32px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 56px -32px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 56px -32px rgba(0,0,0,0.75);
+}
+
+.pie_de_pagina{
+    background-color: rgb(28, 35, 49);
+    color: white;
+}
